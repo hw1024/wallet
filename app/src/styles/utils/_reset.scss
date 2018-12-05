@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+html {-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
+body {background-color: #fbf9fe;font-family: Roboto, HelveticaNeue, Helvetica, Hiragino Sans GB, STHeiti, Sans-Serif;}
+* {margin: 0;padding: 0;}
+a{display:inline-block;color:#666;text-decoration:none;outline:none}
+a:hover{text-decoration:none}
+ul,li{padding:0;margin:0;list-style: none;}
+h1, h2, h3, h4, h5 {font-weight: normal;}
+.fl{float:left}
+.fr{float:right}
+.clear{overflow:hidden}
+.clearfix:after {content: " ";display: block;clear: both;height: 0;}
+.clearfix {zoom: 1;}
+.clear-right{clear: right;}
+.clear-left{clear: left;}
+/**Position*/
+.pos_re{position:relative}
+.pos_ab{position:absolute}
+/**TextAlign*/
+.alg_c{text-align:center}
+.alg_l{text-align:left}
+.alg_r{text-align:right}
